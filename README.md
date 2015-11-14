@@ -1,3 +1,4 @@
-# git-test-old
+# git-test-new
 
-edit 1
+edit 2
+TESTSTRING
